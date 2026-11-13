@@ -1,3 +1,8 @@
+#include <iostream>
+#include <string>
+#include <cstdlib>
+#include <ctime>
+#include "Game/GameManager.h"
 int main() {
 
     srand(static_cast<unsigned int>(time(0)));
